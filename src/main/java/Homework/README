@@ -1,0 +1,45 @@
+Toma Mihai Dragos 322CB
+
+In this project i have some design patterns like: factory, template, singleton, facade, iterator, observer, command, fluent builder
+
+In projectPoo i just did some facades:
+    one for creating the database that i made with singleton
+    other for creating the commands with a factory desing pattern
+
+Facade:
+    here i just read form the three files and put all the information
+    in some hashmaps with lambda expresions
+
+Commands:
+    here i make my command with factory. now for each command:
+
+    add and listen i just have a different class for each, and in data base i do it all (i put them in the hashmap)
+    for delete i implemeted an observer and this is how it works
+        when i delete i need to delete the stream for the streamer and from the user listened array
+        so i implemented an observer interface, and then i did some method so that the deletion of the stream
+        will update the both structures
+        the stream has an observer that has all the users and one streamer
+        when i delte it i will iterarte through all the list and delete the stream from each structure, and then the garbage colector will take it
+
+    surprise and recommend i did them in a template desing pattern so i wont do so many iteratrion trough them
+
+    RecommandTemplate: here is the method printRecommendation where first id
+    do an array of streamers that the user listens after i filtrarte for type
+
+    Recommand: first i get the streams that the user listenes and then i filter all the stream
+    i database after a function that see if the user isnt listening and if he leasten the
+    the streamer then i return true
+
+    Surprsie is the same with lambda but i look if the streamer inst listened by my user
+
+
+Fluent Builder:
+    just tree classes that have the role to help me construct them
+    insted of a lot of setter and constructor i did it with fluent builder
+
+Factory:
+    command factory for my commands
+
+Iterator:
+    the list command has to option: user(array) or streamer(hashmap)
+    so i did an iterator that iterates throuhg both of them

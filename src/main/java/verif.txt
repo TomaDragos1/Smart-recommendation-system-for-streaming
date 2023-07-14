@@ -1,0 +1,1410 @@
+test2/commands.txt
+LIST
+ADD
+LIST
+test12/commands.txt
+RECOMMEND
+test3/commands.txt
+LIST
+ADD
+LIST
+DELETE
+LIST
+test15/commands.txt
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+SURPRISE
+test8/commands.txt
+LIST
+LIST
+test6/commands.txt
+LIST
+LISTEN
+LIST
+SURPRISE
+test11/commands.txt
+RECOMMEND
+test1/commands.txt
+LIST
+LIST
+test10/commands.txt
+ADD
+LIST
+ADD
+LIST
+test13/commands.txt
+SURPRISE
+SURPRISE
+SURPRISE
+test7/commands.txt
+LIST
+LIST
+test4/commands.txt
+LIST
+LISTEN
+LIST
+test9/commands.txt
+LIST
+LIST
+test14/commands.txt
+ADD
+LIST
+RECOMMEND
+ADD
+LIST
+SURPRISE
+test5/commands.txt
+LIST
+ADD
+LIST
+LISTEN
+LIST
+RECOMMEND
+test2/commands.txt
+LIST
+ADD
+LIST
+test12/commands.txt
+RECOMMEND
+test3/commands.txt
+LIST
+ADD
+LIST
+DELETE
+LIST
+test15/commands.txt
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+SURPRISE
+test8/commands.txt
+LIST
+LIST
+test6/commands.txt
+LIST
+LISTEN
+LIST
+SURPRISE
+test11/commands.txt
+RECOMMEND
+test1/commands.txt
+LIST
+LIST
+test10/commands.txt
+ADD
+LIST
+ADD
+LIST
+test13/commands.txt
+SURPRISE
+SURPRISE
+SURPRISE
+test7/commands.txt
+LIST
+LIST
+test4/commands.txt
+LIST
+LISTEN
+LIST
+test9/commands.txt
+LIST
+LIST
+test14/commands.txt
+ADD
+LIST
+RECOMMEND
+ADD
+LIST
+SURPRISE
+test5/commands.txt
+LIST
+ADD
+LIST
+LISTEN
+LIST
+RECOMMEND
+test2/commands.txt
+LIST
+ADD
+LIST
+test12/commands.txt
+RECOMMEND
+test3/commands.txt
+LIST
+ADD
+LIST
+DELETE
+LIST
+test15/commands.txt
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+SURPRISE
+test8/commands.txt
+LIST
+LIST
+test6/commands.txt
+LIST
+LISTEN
+LIST
+SURPRISE
+test11/commands.txt
+RECOMMEND
+test1/commands.txt
+LIST
+LIST
+test10/commands.txt
+ADD
+LIST
+ADD
+LIST
+test13/commands.txt
+SURPRISE
+SURPRISE
+SURPRISE
+test7/commands.txt
+LIST
+LIST
+test4/commands.txt
+LIST
+LISTEN
+LIST
+test9/commands.txt
+LIST
+LIST
+test14/commands.txt
+ADD
+LIST
+RECOMMEND
+ADD
+LIST
+SURPRISE
+test5/commands.txt
+LIST
+ADD
+LIST
+LISTEN
+LIST
+RECOMMEND
+test2/commands.txt
+LIST
+ADD
+LIST
+test12/commands.txt
+RECOMMEND
+test3/commands.txt
+LIST
+ADD
+LIST
+DELETE
+LIST
+test15/commands.txt
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+SURPRISE
+test8/commands.txt
+LIST
+LIST
+test6/commands.txt
+LIST
+LISTEN
+LIST
+SURPRISE
+test11/commands.txt
+RECOMMEND
+test1/commands.txt
+LIST
+LIST
+test10/commands.txt
+ADD
+LIST
+ADD
+LIST
+test13/commands.txt
+SURPRISE
+SURPRISE
+SURPRISE
+test7/commands.txt
+LIST
+LIST
+test4/commands.txt
+LIST
+LISTEN
+LIST
+test9/commands.txt
+LIST
+LIST
+test14/commands.txt
+ADD
+LIST
+RECOMMEND
+ADD
+LIST
+SURPRISE
+test5/commands.txt
+LIST
+ADD
+LIST
+LISTEN
+LIST
+RECOMMEND
+test2/commands.txt
+LIST
+ADD
+LIST
+test12/commands.txt
+RECOMMEND
+test3/commands.txt
+LIST
+ADD
+LIST
+DELETE
+LIST
+test15/commands.txt
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+SURPRISE
+test8/commands.txt
+LIST
+LIST
+test6/commands.txt
+LIST
+LISTEN
+LIST
+SURPRISE
+test11/commands.txt
+RECOMMEND
+test1/commands.txt
+LIST
+LIST
+test10/commands.txt
+ADD
+LIST
+ADD
+LIST
+test13/commands.txt
+SURPRISE
+SURPRISE
+SURPRISE
+test7/commands.txt
+LIST
+LIST
+test4/commands.txt
+LIST
+LISTEN
+LIST
+test9/commands.txt
+LIST
+LIST
+test14/commands.txt
+ADD
+LIST
+RECOMMEND
+ADD
+LIST
+SURPRISE
+test5/commands.txt
+LIST
+ADD
+LIST
+LISTEN
+LIST
+RECOMMEND
+test2/commands.txt
+LIST
+ADD
+LIST
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"12345","name":"Put it on","streamerName":"Ed Sheeran","noOfListenings":"0","length":"02:40","dateAdded":"13-01-2023"}
+test12/commands.txt
+RECOMMEND
+{"id":"96712","name":"Senorita","streamerName":"Camila Cabello","noOfListenings":"400","length":"02:00","dateAdded":"07-01-2018"}
+{"id":"62887","name":"A Place Called Freedom","streamerName":"Ken Follett","noOfListenings":"35","length":"24:58:00","dateAdded":"09-11-2021"}
+test3/commands.txt
+LIST
+ADD
+LIST
+DELETE
+LIST
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"12345","name":"Put it on","streamerName":"Ed Sheeran","noOfListenings":"0","length":"02:40","dateAdded":"13-01-2023"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+test15/commands.txt
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+SURPRISE
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"43524","name":"Cheap Thrills","streamerName":"Sia","noOfListenings":"673","length":"01:30","dateAdded":"18-11-2016"}
+{"id":"96712","name":"Senorita","streamerName":"Camila Cabello","noOfListenings":"400","length":"02:00","dateAdded":"07-01-2018"}
+{"id":"86711","name":"Havana (feat. Young Thug)","streamerName":"Camila Cabello","noOfListenings":"231","length":"01:45","dateAdded":"07-01-2018"}
+{"id":"96712","name":"Senorita","streamerName":"Camila Cabello","noOfListenings":"400","length":"02:00","dateAdded":"07-01-2018"}
+{"id":"86711","name":"Havana (feat. Young Thug)","streamerName":"Camila Cabello","noOfListenings":"232","length":"01:45","dateAdded":"07-01-2018"}
+{"id":"84815","name":"Reinforcement learning for chip design","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"11","length":"53:30","dateAdded":"26-04-2020"}
+{"id":"7440","name":"AI for Good: clean water access in Africa","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"91","length":"42:30","dateAdded":"10-05-2020"}
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+test8/commands.txt
+LIST
+LIST
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"62887","name":"A Place Called Freedom","streamerName":"Ken Follett","noOfListenings":"35","length":"24:58:00","dateAdded":"09-11-2021"}
+{"id":"61887","name":"Never: A Novel","streamerName":"Ken Follett","noOfListenings":"28","length":"24:00:00","dateAdded":"09-11-2021"}
+test6/commands.txt
+LIST
+LISTEN
+LIST
+SURPRISE
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"24015","name":"Waves - Robin Schulz Edit","streamerName":"Mr. Probz","noOfListenings":"907","length":"02:01","dateAdded":"27-10-2015"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+test11/commands.txt
+RECOMMEND
+{"id":"7440","name":"AI for Good: clean water access in Africa","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"90","length":"42:30","dateAdded":"10-05-2020"}
+test1/commands.txt
+LIST
+LIST
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+test10/commands.txt
+ADD
+LIST
+ADD
+LIST
+{"id":"62887","name":"A Place Called Freedom","streamerName":"Ken Follett","noOfListenings":"35","length":"24:58:00","dateAdded":"09-11-2021"}
+{"id":"61887","name":"Never: A Novel","streamerName":"Ken Follett","noOfListenings":"28","length":"24:00:00","dateAdded":"09-11-2021"}
+{"id":"12345","name":"The Pillars of the Earth","streamerName":"Ken Follett","noOfListenings":"0","length":"18:15:00","dateAdded":"13-01-2023"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+test13/commands.txt
+SURPRISE
+SURPRISE
+SURPRISE
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"39305","name":"#128Texas","streamerName":"The Nateland Podcast","noOfListenings":"94","length":"01:49:00","dateAdded":"09-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+test7/commands.txt
+LIST
+LIST
+{"id":"84815","name":"Reinforcement learning for chip design","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"11","length":"53:30","dateAdded":"26-04-2020"}
+{"id":"7440","name":"AI for Good: clean water access in Africa","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"90","length":"42:30","dateAdded":"10-05-2020"}
+{"id":"39305","name":"#128Texas","streamerName":"The Nateland Podcast","noOfListenings":"94","length":"01:49:00","dateAdded":"09-12-2022"}
+test4/commands.txt
+LIST
+LISTEN
+LIST
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+test9/commands.txt
+LIST
+LIST
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"43524","name":"Cheap Thrills","streamerName":"Sia","noOfListenings":"673","length":"01:30","dateAdded":"18-11-2016"}
+{"id":"86711","name":"Havana (feat. Young Thug)","streamerName":"Camila Cabello","noOfListenings":"230","length":"01:45","dateAdded":"07-01-2018"}
+{"id":"61887","name":"Never: A Novel","streamerName":"Ken Follett","noOfListenings":"28","length":"24:00:00","dateAdded":"09-11-2021"}
+test14/commands.txt
+ADD
+LIST
+RECOMMEND
+ADD
+LIST
+SURPRISE
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"23346","name":"More of a podcast","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"39305","name":"#128Texas","streamerName":"The Nateland Podcast","noOfListenings":"94","length":"01:49:00","dateAdded":"09-12-2022"}
+test5/commands.txt
+LIST
+ADD
+LIST
+LISTEN
+LIST
+RECOMMEND
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"12345","name":"Put it on","streamerName":"Ed Sheeran","noOfListenings":"0","length":"02:40","dateAdded":"13-01-2023"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+{"id":"14095","name":"Nine","streamerName":"Alan Walker","noOfListenings":"1000","length":"02:10","dateAdded":"21-01-2017"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+test2/commands.txt
+LIST
+ADD
+LIST
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"12345","name":"Put it on","streamerName":"Ed Sheeran","noOfListenings":"0","length":"02:40","dateAdded":"13-01-2023"}
+test12/commands.txt
+RECOMMEND
+{"id":"96712","name":"Senorita","streamerName":"Camila Cabello","noOfListenings":"400","length":"02:00","dateAdded":"07-01-2018"}
+{"id":"62887","name":"A Place Called Freedom","streamerName":"Ken Follett","noOfListenings":"35","length":"24:58:00","dateAdded":"09-11-2021"}
+test3/commands.txt
+LIST
+ADD
+LIST
+DELETE
+LIST
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"12345","name":"Put it on","streamerName":"Ed Sheeran","noOfListenings":"0","length":"02:40","dateAdded":"13-01-2023"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+test15/commands.txt
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+SURPRISE
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"43524","name":"Cheap Thrills","streamerName":"Sia","noOfListenings":"673","length":"01:30","dateAdded":"18-11-2016"}
+{"id":"96712","name":"Senorita","streamerName":"Camila Cabello","noOfListenings":"400","length":"02:00","dateAdded":"07-01-2018"}
+{"id":"86711","name":"Havana (feat. Young Thug)","streamerName":"Camila Cabello","noOfListenings":"231","length":"01:45","dateAdded":"07-01-2018"}
+{"id":"96712","name":"Senorita","streamerName":"Camila Cabello","noOfListenings":"400","length":"02:00","dateAdded":"07-01-2018"}
+{"id":"86711","name":"Havana (feat. Young Thug)","streamerName":"Camila Cabello","noOfListenings":"232","length":"01:45","dateAdded":"07-01-2018"}
+{"id":"84815","name":"Reinforcement learning for chip design","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"11","length":"53:30","dateAdded":"26-04-2020"}
+{"id":"7440","name":"AI for Good: clean water access in Africa","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"91","length":"42:30","dateAdded":"10-05-2020"}
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+test8/commands.txt
+LIST
+LIST
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"62887","name":"A Place Called Freedom","streamerName":"Ken Follett","noOfListenings":"35","length":"24:58:00","dateAdded":"09-11-2021"}
+{"id":"61887","name":"Never: A Novel","streamerName":"Ken Follett","noOfListenings":"28","length":"24:00:00","dateAdded":"09-11-2021"}
+test6/commands.txt
+LIST
+LISTEN
+LIST
+SURPRISE
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"24015","name":"Waves - Robin Schulz Edit","streamerName":"Mr. Probz","noOfListenings":"907","length":"02:01","dateAdded":"27-10-2015"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+test11/commands.txt
+RECOMMEND
+{"id":"7440","name":"AI for Good: clean water access in Africa","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"90","length":"42:30","dateAdded":"10-05-2020"}
+test1/commands.txt
+LIST
+LIST
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+test10/commands.txt
+ADD
+LIST
+ADD
+LIST
+{"id":"62887","name":"A Place Called Freedom","streamerName":"Ken Follett","noOfListenings":"35","length":"24:58:00","dateAdded":"09-11-2021"}
+{"id":"61887","name":"Never: A Novel","streamerName":"Ken Follett","noOfListenings":"28","length":"24:00:00","dateAdded":"09-11-2021"}
+{"id":"12345","name":"The Pillars of the Earth","streamerName":"Ken Follett","noOfListenings":"0","length":"18:15:00","dateAdded":"13-01-2023"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+test13/commands.txt
+SURPRISE
+SURPRISE
+SURPRISE
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"39305","name":"#128Texas","streamerName":"The Nateland Podcast","noOfListenings":"94","length":"01:49:00","dateAdded":"09-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+test7/commands.txt
+LIST
+LIST
+{"id":"84815","name":"Reinforcement learning for chip design","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"11","length":"53:30","dateAdded":"26-04-2020"}
+{"id":"7440","name":"AI for Good: clean water access in Africa","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"90","length":"42:30","dateAdded":"10-05-2020"}
+{"id":"39305","name":"#128Texas","streamerName":"The Nateland Podcast","noOfListenings":"94","length":"01:49:00","dateAdded":"09-12-2022"}
+test4/commands.txt
+LIST
+LISTEN
+LIST
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+test9/commands.txt
+LIST
+LIST
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"43524","name":"Cheap Thrills","streamerName":"Sia","noOfListenings":"673","length":"01:30","dateAdded":"18-11-2016"}
+{"id":"86711","name":"Havana (feat. Young Thug)","streamerName":"Camila Cabello","noOfListenings":"230","length":"01:45","dateAdded":"07-01-2018"}
+{"id":"61887","name":"Never: A Novel","streamerName":"Ken Follett","noOfListenings":"28","length":"24:00:00","dateAdded":"09-11-2021"}
+test14/commands.txt
+ADD
+LIST
+RECOMMEND
+ADD
+LIST
+SURPRISE
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"23346","name":"More of a podcast","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"39305","name":"#128Texas","streamerName":"The Nateland Podcast","noOfListenings":"94","length":"01:49:00","dateAdded":"09-12-2022"}
+test5/commands.txt
+LIST
+ADD
+LIST
+LISTEN
+LIST
+RECOMMEND
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"12345","name":"Put it on","streamerName":"Ed Sheeran","noOfListenings":"0","length":"02:40","dateAdded":"13-01-2023"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+{"id":"14095","name":"Nine","streamerName":"Alan Walker","noOfListenings":"1000","length":"02:10","dateAdded":"21-01-2017"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+test2/commands.txt
+LIST
+ADD
+LIST
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"12345","name":"Put it on","streamerName":"Ed Sheeran","noOfListenings":"0","length":"02:40","dateAdded":"13-01-2023"}
+test12/commands.txt
+RECOMMEND
+{"id":"96712","name":"Senorita","streamerName":"Camila Cabello","noOfListenings":"400","length":"02:00","dateAdded":"07-01-2018"}
+{"id":"62887","name":"A Place Called Freedom","streamerName":"Ken Follett","noOfListenings":"35","length":"24:58:00","dateAdded":"09-11-2021"}
+test3/commands.txt
+LIST
+ADD
+LIST
+DELETE
+LIST
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"12345","name":"Put it on","streamerName":"Ed Sheeran","noOfListenings":"0","length":"02:40","dateAdded":"13-01-2023"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+test15/commands.txt
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+SURPRISE
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"43524","name":"Cheap Thrills","streamerName":"Sia","noOfListenings":"673","length":"01:30","dateAdded":"18-11-2016"}
+{"id":"96712","name":"Senorita","streamerName":"Camila Cabello","noOfListenings":"400","length":"02:00","dateAdded":"07-01-2018"}
+{"id":"86711","name":"Havana (feat. Young Thug)","streamerName":"Camila Cabello","noOfListenings":"231","length":"01:45","dateAdded":"07-01-2018"}
+{"id":"96712","name":"Senorita","streamerName":"Camila Cabello","noOfListenings":"400","length":"02:00","dateAdded":"07-01-2018"}
+{"id":"86711","name":"Havana (feat. Young Thug)","streamerName":"Camila Cabello","noOfListenings":"232","length":"01:45","dateAdded":"07-01-2018"}
+{"id":"84815","name":"Reinforcement learning for chip design","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"11","length":"53:30","dateAdded":"26-04-2020"}
+{"id":"7440","name":"AI for Good: clean water access in Africa","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"91","length":"42:30","dateAdded":"10-05-2020"}
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+test8/commands.txt
+LIST
+LIST
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"62887","name":"A Place Called Freedom","streamerName":"Ken Follett","noOfListenings":"35","length":"24:58:00","dateAdded":"09-11-2021"}
+{"id":"61887","name":"Never: A Novel","streamerName":"Ken Follett","noOfListenings":"28","length":"24:00:00","dateAdded":"09-11-2021"}
+test6/commands.txt
+LIST
+LISTEN
+LIST
+SURPRISE
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"24015","name":"Waves - Robin Schulz Edit","streamerName":"Mr. Probz","noOfListenings":"907","length":"02:01","dateAdded":"27-10-2015"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+test11/commands.txt
+RECOMMEND
+{"id":"7440","name":"AI for Good: clean water access in Africa","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"90","length":"42:30","dateAdded":"10-05-2020"}
+test1/commands.txt
+LIST
+LIST
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+test10/commands.txt
+ADD
+LIST
+ADD
+LIST
+{"id":"62887","name":"A Place Called Freedom","streamerName":"Ken Follett","noOfListenings":"35","length":"24:58:00","dateAdded":"09-11-2021"}
+{"id":"61887","name":"Never: A Novel","streamerName":"Ken Follett","noOfListenings":"28","length":"24:00:00","dateAdded":"09-11-2021"}
+{"id":"12345","name":"The Pillars of the Earth","streamerName":"Ken Follett","noOfListenings":"0","length":"18:15:00","dateAdded":"13-01-2023"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+test13/commands.txt
+SURPRISE
+SURPRISE
+SURPRISE
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"39305","name":"#128Texas","streamerName":"The Nateland Podcast","noOfListenings":"94","length":"01:49:00","dateAdded":"09-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+test7/commands.txt
+LIST
+LIST
+{"id":"84815","name":"Reinforcement learning for chip design","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"11","length":"53:30","dateAdded":"26-04-2020"}
+{"id":"7440","name":"AI for Good: clean water access in Africa","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"90","length":"42:30","dateAdded":"10-05-2020"}
+{"id":"39305","name":"#128Texas","streamerName":"The Nateland Podcast","noOfListenings":"94","length":"01:49:00","dateAdded":"09-12-2022"}
+test4/commands.txt
+LIST
+LISTEN
+LIST
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+test9/commands.txt
+LIST
+LIST
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"43524","name":"Cheap Thrills","streamerName":"Sia","noOfListenings":"673","length":"01:30","dateAdded":"18-11-2016"}
+{"id":"86711","name":"Havana (feat. Young Thug)","streamerName":"Camila Cabello","noOfListenings":"230","length":"01:45","dateAdded":"07-01-2018"}
+{"id":"61887","name":"Never: A Novel","streamerName":"Ken Follett","noOfListenings":"28","length":"24:00:00","dateAdded":"09-11-2021"}
+test14/commands.txt
+ADD
+LIST
+RECOMMEND
+ADD
+LIST
+SURPRISE
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"23346","name":"More of a podcast","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"39305","name":"#128Texas","streamerName":"The Nateland Podcast","noOfListenings":"94","length":"01:49:00","dateAdded":"09-12-2022"}
+test5/commands.txt
+LIST
+ADD
+LIST
+LISTEN
+LIST
+RECOMMEND
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"12345","name":"Put it on","streamerName":"Ed Sheeran","noOfListenings":"0","length":"02:40","dateAdded":"13-01-2023"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+{"id":"14095","name":"Nine","streamerName":"Alan Walker","noOfListenings":"1000","length":"02:10","dateAdded":"21-01-2017"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+test2/commands.txt
+LIST
+ADD
+LIST
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"12345","name":"Put it on","streamerName":"Ed Sheeran","noOfListenings":"0","length":"02:40","dateAdded":"13-01-2023"}
+test12/commands.txt
+RECOMMEND
+{"id":"96712","name":"Senorita","streamerName":"Camila Cabello","noOfListenings":"400","length":"02:00","dateAdded":"07-01-2018"}
+{"id":"62887","name":"A Place Called Freedom","streamerName":"Ken Follett","noOfListenings":"35","length":"24:58:00","dateAdded":"09-11-2021"}
+test3/commands.txt
+LIST
+ADD
+LIST
+DELETE
+LIST
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"12345","name":"Put it on","streamerName":"Ed Sheeran","noOfListenings":"0","length":"02:40","dateAdded":"13-01-2023"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+test15/commands.txt
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+SURPRISE
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"43524","name":"Cheap Thrills","streamerName":"Sia","noOfListenings":"673","length":"01:30","dateAdded":"18-11-2016"}
+{"id":"96712","name":"Senorita","streamerName":"Camila Cabello","noOfListenings":"400","length":"02:00","dateAdded":"07-01-2018"}
+{"id":"86711","name":"Havana (feat. Young Thug)","streamerName":"Camila Cabello","noOfListenings":"231","length":"01:45","dateAdded":"07-01-2018"}
+{"id":"96712","name":"Senorita","streamerName":"Camila Cabello","noOfListenings":"400","length":"02:00","dateAdded":"07-01-2018"}
+{"id":"86711","name":"Havana (feat. Young Thug)","streamerName":"Camila Cabello","noOfListenings":"232","length":"01:45","dateAdded":"07-01-2018"}
+{"id":"84815","name":"Reinforcement learning for chip design","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"11","length":"53:30","dateAdded":"26-04-2020"}
+{"id":"7440","name":"AI for Good: clean water access in Africa","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"91","length":"42:30","dateAdded":"10-05-2020"}
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+test8/commands.txt
+LIST
+LIST
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"62887","name":"A Place Called Freedom","streamerName":"Ken Follett","noOfListenings":"35","length":"24:58:00","dateAdded":"09-11-2021"}
+{"id":"61887","name":"Never: A Novel","streamerName":"Ken Follett","noOfListenings":"28","length":"24:00:00","dateAdded":"09-11-2021"}
+test6/commands.txt
+LIST
+LISTEN
+LIST
+SURPRISE
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"24015","name":"Waves - Robin Schulz Edit","streamerName":"Mr. Probz","noOfListenings":"907","length":"02:01","dateAdded":"27-10-2015"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+test11/commands.txt
+RECOMMEND
+{"id":"7440","name":"AI for Good: clean water access in Africa","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"90","length":"42:30","dateAdded":"10-05-2020"}
+test1/commands.txt
+LIST
+LIST
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+test10/commands.txt
+ADD
+LIST
+ADD
+LIST
+{"id":"62887","name":"A Place Called Freedom","streamerName":"Ken Follett","noOfListenings":"35","length":"24:58:00","dateAdded":"09-11-2021"}
+{"id":"61887","name":"Never: A Novel","streamerName":"Ken Follett","noOfListenings":"28","length":"24:00:00","dateAdded":"09-11-2021"}
+{"id":"12345","name":"The Pillars of the Earth","streamerName":"Ken Follett","noOfListenings":"0","length":"18:15:00","dateAdded":"13-01-2023"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+test13/commands.txt
+SURPRISE
+SURPRISE
+SURPRISE
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"39305","name":"#128Texas","streamerName":"The Nateland Podcast","noOfListenings":"94","length":"01:49:00","dateAdded":"09-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+test7/commands.txt
+LIST
+LIST
+{"id":"84815","name":"Reinforcement learning for chip design","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"11","length":"53:30","dateAdded":"26-04-2020"}
+{"id":"7440","name":"AI for Good: clean water access in Africa","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"90","length":"42:30","dateAdded":"10-05-2020"}
+{"id":"39305","name":"#128Texas","streamerName":"The Nateland Podcast","noOfListenings":"94","length":"01:49:00","dateAdded":"09-12-2022"}
+test4/commands.txt
+LIST
+LISTEN
+LIST
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+test9/commands.txt
+LIST
+LIST
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"43524","name":"Cheap Thrills","streamerName":"Sia","noOfListenings":"673","length":"01:30","dateAdded":"18-11-2016"}
+{"id":"86711","name":"Havana (feat. Young Thug)","streamerName":"Camila Cabello","noOfListenings":"230","length":"01:45","dateAdded":"07-01-2018"}
+{"id":"61887","name":"Never: A Novel","streamerName":"Ken Follett","noOfListenings":"28","length":"24:00:00","dateAdded":"09-11-2021"}
+test14/commands.txt
+ADD
+LIST
+RECOMMEND
+ADD
+LIST
+SURPRISE
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"23346","name":"More of a podcast","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"39305","name":"#128Texas","streamerName":"The Nateland Podcast","noOfListenings":"94","length":"01:49:00","dateAdded":"09-12-2022"}
+test5/commands.txt
+LIST
+ADD
+LIST
+LISTEN
+LIST
+RECOMMEND
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"12345","name":"Put it on","streamerName":"Ed Sheeran","noOfListenings":"0","length":"02:40","dateAdded":"13-01-2023"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+{"id":"14095","name":"Nine","streamerName":"Alan Walker","noOfListenings":"1000","length":"02:10","dateAdded":"21-01-2017"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+test2/commands.txt
+LIST
+ADD
+LIST
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"12345","name":"Put it on","streamerName":"Ed Sheeran","noOfListenings":"0","length":"02:40","dateAdded":"13-01-2023"}
+test12/commands.txt
+RECOMMEND
+{"id":"96712","name":"Senorita","streamerName":"Camila Cabello","noOfListenings":"400","length":"02:00","dateAdded":"07-01-2018"}
+{"id":"62887","name":"A Place Called Freedom","streamerName":"Ken Follett","noOfListenings":"35","length":"24:58:00","dateAdded":"09-11-2021"}
+test3/commands.txt
+LIST
+ADD
+LIST
+DELETE
+LIST
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"12345","name":"Put it on","streamerName":"Ed Sheeran","noOfListenings":"0","length":"02:40","dateAdded":"13-01-2023"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+test15/commands.txt
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+SURPRISE
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"43524","name":"Cheap Thrills","streamerName":"Sia","noOfListenings":"673","length":"01:30","dateAdded":"18-11-2016"}
+{"id":"96712","name":"Senorita","streamerName":"Camila Cabello","noOfListenings":"400","length":"02:00","dateAdded":"07-01-2018"}
+{"id":"86711","name":"Havana (feat. Young Thug)","streamerName":"Camila Cabello","noOfListenings":"231","length":"01:45","dateAdded":"07-01-2018"}
+{"id":"96712","name":"Senorita","streamerName":"Camila Cabello","noOfListenings":"400","length":"02:00","dateAdded":"07-01-2018"}
+{"id":"86711","name":"Havana (feat. Young Thug)","streamerName":"Camila Cabello","noOfListenings":"232","length":"01:45","dateAdded":"07-01-2018"}
+{"id":"84815","name":"Reinforcement learning for chip design","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"11","length":"53:30","dateAdded":"26-04-2020"}
+{"id":"7440","name":"AI for Good: clean water access in Africa","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"91","length":"42:30","dateAdded":"10-05-2020"}
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+test8/commands.txt
+LIST
+LIST
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"62887","name":"A Place Called Freedom","streamerName":"Ken Follett","noOfListenings":"35","length":"24:58:00","dateAdded":"09-11-2021"}
+{"id":"61887","name":"Never: A Novel","streamerName":"Ken Follett","noOfListenings":"28","length":"24:00:00","dateAdded":"09-11-2021"}
+test6/commands.txt
+LIST
+LISTEN
+LIST
+SURPRISE
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"24015","name":"Waves - Robin Schulz Edit","streamerName":"Mr. Probz","noOfListenings":"907","length":"02:01","dateAdded":"27-10-2015"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+test11/commands.txt
+RECOMMEND
+{"id":"7440","name":"AI for Good: clean water access in Africa","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"90","length":"42:30","dateAdded":"10-05-2020"}
+test1/commands.txt
+LIST
+LIST
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+test10/commands.txt
+ADD
+LIST
+ADD
+LIST
+{"id":"62887","name":"A Place Called Freedom","streamerName":"Ken Follett","noOfListenings":"35","length":"24:58:00","dateAdded":"09-11-2021"}
+{"id":"61887","name":"Never: A Novel","streamerName":"Ken Follett","noOfListenings":"28","length":"24:00:00","dateAdded":"09-11-2021"}
+{"id":"12345","name":"The Pillars of the Earth","streamerName":"Ken Follett","noOfListenings":"0","length":"18:15:00","dateAdded":"13-01-2023"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+test13/commands.txt
+SURPRISE
+SURPRISE
+SURPRISE
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"39305","name":"#128Texas","streamerName":"The Nateland Podcast","noOfListenings":"94","length":"01:49:00","dateAdded":"09-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+test7/commands.txt
+LIST
+LIST
+{"id":"84815","name":"Reinforcement learning for chip design","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"11","length":"53:30","dateAdded":"26-04-2020"}
+{"id":"7440","name":"AI for Good: clean water access in Africa","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"90","length":"42:30","dateAdded":"10-05-2020"}
+{"id":"39305","name":"#128Texas","streamerName":"The Nateland Podcast","noOfListenings":"94","length":"01:49:00","dateAdded":"09-12-2022"}
+test4/commands.txt
+LIST
+LISTEN
+LIST
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+test9/commands.txt
+LIST
+LIST
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"43524","name":"Cheap Thrills","streamerName":"Sia","noOfListenings":"673","length":"01:30","dateAdded":"18-11-2016"}
+{"id":"86711","name":"Havana (feat. Young Thug)","streamerName":"Camila Cabello","noOfListenings":"230","length":"01:45","dateAdded":"07-01-2018"}
+{"id":"61887","name":"Never: A Novel","streamerName":"Ken Follett","noOfListenings":"28","length":"24:00:00","dateAdded":"09-11-2021"}
+test14/commands.txt
+ADD
+LIST
+RECOMMEND
+ADD
+LIST
+SURPRISE
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"23346","name":"More of a podcast","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"39305","name":"#128Texas","streamerName":"The Nateland Podcast","noOfListenings":"94","length":"01:49:00","dateAdded":"09-12-2022"}
+test5/commands.txt
+LIST
+ADD
+LIST
+LISTEN
+LIST
+RECOMMEND
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"12345","name":"Put it on","streamerName":"Ed Sheeran","noOfListenings":"0","length":"02:40","dateAdded":"13-01-2023"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+{"id":"14095","name":"Nine","streamerName":"Alan Walker","noOfListenings":"1000","length":"02:10","dateAdded":"21-01-2017"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+test2/commands.txt
+LIST
+ADD
+LIST
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"12345","name":"Put it on","streamerName":"Ed Sheeran","noOfListenings":"0","length":"02:40","dateAdded":"13-01-2023"}
+test12/commands.txt
+RECOMMEND
+{"id":"96712","name":"Senorita","streamerName":"Camila Cabello","noOfListenings":"400","length":"02:00","dateAdded":"07-01-2018"}
+{"id":"62887","name":"A Place Called Freedom","streamerName":"Ken Follett","noOfListenings":"35","length":"24:58:00","dateAdded":"09-11-2021"}
+test3/commands.txt
+LIST
+ADD
+LIST
+DELETE
+LIST
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"12345","name":"Put it on","streamerName":"Ed Sheeran","noOfListenings":"0","length":"02:40","dateAdded":"13-01-2023"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+test15/commands.txt
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+SURPRISE
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"43524","name":"Cheap Thrills","streamerName":"Sia","noOfListenings":"673","length":"01:30","dateAdded":"18-11-2016"}
+{"id":"96712","name":"Senorita","streamerName":"Camila Cabello","noOfListenings":"400","length":"02:00","dateAdded":"07-01-2018"}
+{"id":"86711","name":"Havana (feat. Young Thug)","streamerName":"Camila Cabello","noOfListenings":"231","length":"01:45","dateAdded":"07-01-2018"}
+{"id":"96712","name":"Senorita","streamerName":"Camila Cabello","noOfListenings":"400","length":"02:00","dateAdded":"07-01-2018"}
+{"id":"86711","name":"Havana (feat. Young Thug)","streamerName":"Camila Cabello","noOfListenings":"232","length":"01:45","dateAdded":"07-01-2018"}
+{"id":"84815","name":"Reinforcement learning for chip design","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"11","length":"53:30","dateAdded":"26-04-2020"}
+{"id":"7440","name":"AI for Good: clean water access in Africa","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"91","length":"42:30","dateAdded":"10-05-2020"}
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+test8/commands.txt
+LIST
+LIST
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"62887","name":"A Place Called Freedom","streamerName":"Ken Follett","noOfListenings":"35","length":"24:58:00","dateAdded":"09-11-2021"}
+{"id":"61887","name":"Never: A Novel","streamerName":"Ken Follett","noOfListenings":"28","length":"24:00:00","dateAdded":"09-11-2021"}
+test6/commands.txt
+LIST
+LISTEN
+LIST
+SURPRISE
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"24015","name":"Waves - Robin Schulz Edit","streamerName":"Mr. Probz","noOfListenings":"907","length":"02:01","dateAdded":"27-10-2015"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+test11/commands.txt
+RECOMMEND
+{"id":"7440","name":"AI for Good: clean water access in Africa","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"90","length":"42:30","dateAdded":"10-05-2020"}
+test1/commands.txt
+LIST
+LIST
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+test10/commands.txt
+ADD
+LIST
+ADD
+LIST
+{"id":"62887","name":"A Place Called Freedom","streamerName":"Ken Follett","noOfListenings":"35","length":"24:58:00","dateAdded":"09-11-2021"}
+{"id":"61887","name":"Never: A Novel","streamerName":"Ken Follett","noOfListenings":"28","length":"24:00:00","dateAdded":"09-11-2021"}
+{"id":"12345","name":"The Pillars of the Earth","streamerName":"Ken Follett","noOfListenings":"0","length":"18:15:00","dateAdded":"13-01-2023"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+test13/commands.txt
+SURPRISE
+SURPRISE
+SURPRISE
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"39305","name":"#128Texas","streamerName":"The Nateland Podcast","noOfListenings":"94","length":"01:49:00","dateAdded":"09-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+test7/commands.txt
+LIST
+LIST
+{"id":"84815","name":"Reinforcement learning for chip design","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"11","length":"53:30","dateAdded":"26-04-2020"}
+{"id":"7440","name":"AI for Good: clean water access in Africa","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"90","length":"42:30","dateAdded":"10-05-2020"}
+{"id":"39305","name":"#128Texas","streamerName":"The Nateland Podcast","noOfListenings":"94","length":"01:49:00","dateAdded":"09-12-2022"}
+test4/commands.txt
+LIST
+LISTEN
+LIST
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+test9/commands.txt
+LIST
+LIST
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"43524","name":"Cheap Thrills","streamerName":"Sia","noOfListenings":"673","length":"01:30","dateAdded":"18-11-2016"}
+{"id":"86711","name":"Havana (feat. Young Thug)","streamerName":"Camila Cabello","noOfListenings":"230","length":"01:45","dateAdded":"07-01-2018"}
+{"id":"61887","name":"Never: A Novel","streamerName":"Ken Follett","noOfListenings":"28","length":"24:00:00","dateAdded":"09-11-2021"}
+test14/commands.txt
+ADD
+LIST
+RECOMMEND
+ADD
+LIST
+SURPRISE
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"23346","name":"More of a podcast","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"39305","name":"#128Texas","streamerName":"The Nateland Podcast","noOfListenings":"94","length":"01:49:00","dateAdded":"09-12-2022"}
+test5/commands.txt
+LIST
+ADD
+LIST
+LISTEN
+LIST
+RECOMMEND
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"12345","name":"Put it on","streamerName":"Ed Sheeran","noOfListenings":"0","length":"02:40","dateAdded":"13-01-2023"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+{"id":"14095","name":"Nine","streamerName":"Alan Walker","noOfListenings":"1000","length":"02:10","dateAdded":"21-01-2017"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+test2/commands.txt
+LIST
+ADD
+LIST
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"12345","name":"Put it on","streamerName":"Ed Sheeran","noOfListenings":"0","length":"02:40","dateAdded":"13-01-2023"}
+test12/commands.txt
+RECOMMEND
+{"id":"96712","name":"Senorita","streamerName":"Camila Cabello","noOfListenings":"400","length":"02:00","dateAdded":"07-01-2018"}
+{"id":"62887","name":"A Place Called Freedom","streamerName":"Ken Follett","noOfListenings":"35","length":"24:58:00","dateAdded":"09-11-2021"}
+test3/commands.txt
+LIST
+ADD
+LIST
+DELETE
+LIST
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"12345","name":"Put it on","streamerName":"Ed Sheeran","noOfListenings":"0","length":"02:40","dateAdded":"13-01-2023"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+test15/commands.txt
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+SURPRISE
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"43524","name":"Cheap Thrills","streamerName":"Sia","noOfListenings":"673","length":"01:30","dateAdded":"18-11-2016"}
+{"id":"96712","name":"Senorita","streamerName":"Camila Cabello","noOfListenings":"400","length":"02:00","dateAdded":"07-01-2018"}
+{"id":"86711","name":"Havana (feat. Young Thug)","streamerName":"Camila Cabello","noOfListenings":"231","length":"01:45","dateAdded":"07-01-2018"}
+{"id":"96712","name":"Senorita","streamerName":"Camila Cabello","noOfListenings":"400","length":"02:00","dateAdded":"07-01-2018"}
+{"id":"86711","name":"Havana (feat. Young Thug)","streamerName":"Camila Cabello","noOfListenings":"232","length":"01:45","dateAdded":"07-01-2018"}
+{"id":"84815","name":"Reinforcement learning for chip design","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"11","length":"53:30","dateAdded":"26-04-2020"}
+{"id":"7440","name":"AI for Good: clean water access in Africa","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"91","length":"42:30","dateAdded":"10-05-2020"}
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+test8/commands.txt
+LIST
+LIST
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"62887","name":"A Place Called Freedom","streamerName":"Ken Follett","noOfListenings":"35","length":"24:58:00","dateAdded":"09-11-2021"}
+{"id":"61887","name":"Never: A Novel","streamerName":"Ken Follett","noOfListenings":"28","length":"24:00:00","dateAdded":"09-11-2021"}
+test6/commands.txt
+LIST
+LISTEN
+LIST
+SURPRISE
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"24015","name":"Waves - Robin Schulz Edit","streamerName":"Mr. Probz","noOfListenings":"907","length":"02:01","dateAdded":"27-10-2015"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+test11/commands.txt
+RECOMMEND
+{"id":"7440","name":"AI for Good: clean water access in Africa","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"90","length":"42:30","dateAdded":"10-05-2020"}
+test1/commands.txt
+LIST
+LIST
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+test10/commands.txt
+ADD
+LIST
+ADD
+LIST
+{"id":"62887","name":"A Place Called Freedom","streamerName":"Ken Follett","noOfListenings":"35","length":"24:58:00","dateAdded":"09-11-2021"}
+{"id":"61887","name":"Never: A Novel","streamerName":"Ken Follett","noOfListenings":"28","length":"24:00:00","dateAdded":"09-11-2021"}
+{"id":"12345","name":"The Pillars of the Earth","streamerName":"Ken Follett","noOfListenings":"0","length":"18:15:00","dateAdded":"13-01-2023"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+test13/commands.txt
+SURPRISE
+SURPRISE
+SURPRISE
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"39305","name":"#128Texas","streamerName":"The Nateland Podcast","noOfListenings":"94","length":"01:49:00","dateAdded":"09-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+test7/commands.txt
+LIST
+LIST
+{"id":"84815","name":"Reinforcement learning for chip design","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"11","length":"53:30","dateAdded":"26-04-2020"}
+{"id":"7440","name":"AI for Good: clean water access in Africa","streamerName":"Practical AI: Machine Learning \u0026 Data Science","noOfListenings":"90","length":"42:30","dateAdded":"10-05-2020"}
+{"id":"39305","name":"#128Texas","streamerName":"The Nateland Podcast","noOfListenings":"94","length":"01:49:00","dateAdded":"09-12-2022"}
+test4/commands.txt
+LIST
+LISTEN
+LIST
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+test9/commands.txt
+LIST
+LIST
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"43524","name":"Cheap Thrills","streamerName":"Sia","noOfListenings":"673","length":"01:30","dateAdded":"18-11-2016"}
+{"id":"86711","name":"Havana (feat. Young Thug)","streamerName":"Camila Cabello","noOfListenings":"230","length":"01:45","dateAdded":"07-01-2018"}
+{"id":"61887","name":"Never: A Novel","streamerName":"Ken Follett","noOfListenings":"28","length":"24:00:00","dateAdded":"09-11-2021"}
+test14/commands.txt
+ADD
+LIST
+RECOMMEND
+ADD
+LIST
+SURPRISE
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"24453","name":"Undercover Rabbi","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"77","length":"01:17:30","dateAdded":"13-12-2022"}
+{"id":"13227","name":"Michelle Obama returns again","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"86","length":"01:26:52","dateAdded":"30-11-2022"}
+{"id":"12346","name":"Return of the Mack","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"23346","name":"More of a podcast","streamerName":"Conan O\u0027Brien Needs A Friend","noOfListenings":"0","length":"01:26:40","dateAdded":"13-01-2023"}
+{"id":"35646","name":"Who\u0027s in your inner circle","streamerName":"HiddenBrain","noOfListenings":"40","length":"53:30","dateAdded":"08-01-2023"}
+{"id":"4408","name":"The secret to gift giving","streamerName":"HiddenBrain","noOfListenings":"26","length":"55:10","dateAdded":"21-12-2022"}
+{"id":"39305","name":"#128Texas","streamerName":"The Nateland Podcast","noOfListenings":"94","length":"01:49:00","dateAdded":"09-12-2022"}
+test5/commands.txt
+LIST
+ADD
+LIST
+LISTEN
+LIST
+RECOMMEND
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"53873","name":"Shape of You","streamerName":"Ed Sheeran","noOfListenings":"294","length":"01:36","dateAdded":"22-11-2017"}
+{"id":"12345","name":"Put it on","streamerName":"Ed Sheeran","noOfListenings":"0","length":"02:40","dateAdded":"13-01-2023"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+{"id":"24013","name":"Waves - Robin Schulz Radio Edit","streamerName":"Mr. Probz","noOfListenings":"868","length":"02:00","dateAdded":"27-10-2015"}
+{"id":"14095","name":"Nine","streamerName":"Alan Walker","noOfListenings":"1000","length":"02:10","dateAdded":"21-01-2017"}
+{"id":"43234","name":"Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)","streamerName":"DJ Snake","noOfListenings":"932","length":"01:36","dateAdded":"02-10-2019"}
+test2/commands.txt
+LIST
+ADD
+LIST
+test12/commands.txt
+RECOMMEND
+test3/commands.txt
+LIST
+ADD
+LIST
+DELETE
+LIST
+test15/commands.txt
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+LISTEN
+LIST
+SURPRISE
+test8/commands.txt
+LIST
+LIST
+test6/commands.txt
+LIST
+LISTEN
+LIST
+SURPRISE
+test11/commands.txt
+RECOMMEND
+test1/commands.txt
+LIST
+LIST
+test10/commands.txt
+ADD
+LIST
+ADD
+LIST
+test13/commands.txt
+SURPRISE
+SURPRISE
+SURPRISE
+test7/commands.txt
+LIST
+LIST
+test4/commands.txt
+LIST
+LISTEN
+LIST
+test9/commands.txt
+LIST
+LIST
+test14/commands.txt
+ADD
+LIST
+RECOMMEND
+ADD
+LIST
+SURPRISE
+test5/commands.txt
+LIST
+ADD
+LIST
+LISTEN
+LIST
+RECOMMEND
